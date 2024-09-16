@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Son\\OneDrive\\Documents\\Assignment Week #2\\Calcu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF07B28-A9BB-460E-A93C-13BED9B1ADE0}|Calcu\\Calcu.csproj|C:\\Users\\Son\\OneDrive\\Documents\\Assignment Week #2\\Calcu\\calcu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF07B28-A9BB-460E-A93C-13BED9B1ADE0}|Calcu\\Calcu.csproj|solutionrelative:calcu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF07B28-A9BB-460E-A93C-13BED9B1ADE0}|Calcu\\Calcu.csproj|C:\\Users\\Son\\OneDrive\\Documents\\Assignment Week #2\\Calcu\\calcu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDF07B28-A9BB-460E-A93C-13BED9B1ADE0}|Calcu\\Calcu.csproj|solutionrelative:calcu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF07B28-A9BB-460E-A93C-13BED9B1ADE0}|Calcu\\Calcu.csproj|c:\\users\\son\\onedrive\\documents\\assignment week #2\\calcu\\calcu\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF07B28-A9BB-460E-A93C-13BED9B1ADE0}|Calcu\\Calcu.csproj|solutionrelative:calcu\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF07B28-A9BB-460E-A93C-13BED9B1ADE0}|Calcu\\Calcu.csproj|C:\\Users\\Son\\OneDrive\\Documents\\Assignment Week #2\\Calcu\\calcu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF07B28-A9BB-460E-A93C-13BED9B1ADE0}|Calcu\\Calcu.csproj|solutionrelative:calcu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Son\\OneDrive\\Documents\\Assignment Week #2\\Calcu\\Calcu\\Form1.cs",
+              "RelativeDocumentMoniker": "Calcu\\Form1.cs",
+              "ToolTip": "C:\\Users\\Son\\OneDrive\\Documents\\Assignment Week #2\\Calcu\\Calcu\\Form1.cs",
+              "RelativeToolTip": "Calcu\\Form1.cs",
+              "ViewState": "AQIAAEgBAAAAAAAAAAAawMwBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T10:04:16.836Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Son\\OneDrive\\Documents\\Assignment Week #2\\Calcu\\Calcu\\Program.cs",
+              "RelativeDocumentMoniker": "Calcu\\Program.cs",
+              "ToolTip": "C:\\Users\\Son\\OneDrive\\Documents\\Assignment Week #2\\Calcu\\Calcu\\Program.cs",
+              "RelativeToolTip": "Calcu\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:34:15.109Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Son\\OneDrive\\Documents\\Assignment Week #2\\Calcu\\Calcu\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Calcu\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Son\\OneDrive\\Documents\\Assignment Week #2\\Calcu\\Calcu\\Form1.Designer.cs",
+              "RelativeToolTip": "Calcu\\Form1.Designer.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T16:36:51.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Son\\OneDrive\\Documents\\Assignment Week #2\\Calcu\\Calcu\\Form1.cs",
+              "RelativeDocumentMoniker": "Calcu\\Form1.cs",
+              "ToolTip": "C:\\Users\\Son\\OneDrive\\Documents\\Assignment Week #2\\Calcu\\Calcu\\Form1.cs [Design]",
+              "RelativeToolTip": "Calcu\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T09:59:40.913Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

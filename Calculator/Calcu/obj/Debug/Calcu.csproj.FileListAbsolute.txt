@@ -1,0 +1,10 @@
+C:\Users\Son\OneDrive\Documents\Assignment Week #2\Calcu\Calcu\obj\Debug\Calcu.csproj.AssemblyReference.cache
+C:\Users\Son\OneDrive\Documents\Assignment Week #2\Calcu\Calcu\obj\Debug\Calcu.Form1.resources
+C:\Users\Son\OneDrive\Documents\Assignment Week #2\Calcu\Calcu\obj\Debug\Calcu.Properties.Resources.resources
+C:\Users\Son\OneDrive\Documents\Assignment Week #2\Calcu\Calcu\obj\Debug\Calcu.csproj.GenerateResource.cache
+C:\Users\Son\OneDrive\Documents\Assignment Week #2\Calcu\Calcu\obj\Debug\Calcu.csproj.CoreCompileInputs.cache
+C:\Users\Son\OneDrive\Documents\Assignment Week #2\Calcu\Calcu\bin\Debug\Calcu.exe.config
+C:\Users\Son\OneDrive\Documents\Assignment Week #2\Calcu\Calcu\bin\Debug\Calcu.exe
+C:\Users\Son\OneDrive\Documents\Assignment Week #2\Calcu\Calcu\bin\Debug\Calcu.pdb
+C:\Users\Son\OneDrive\Documents\Assignment Week #2\Calcu\Calcu\obj\Debug\Calcu.exe
+C:\Users\Son\OneDrive\Documents\Assignment Week #2\Calcu\Calcu\obj\Debug\Calcu.pdb
