@@ -1,5 +1,5 @@
 # Group 5.
-## Môn học: Lập trình mạng căn bản, mã lớp: NT106.P12.
+## Môn học: Lập trình mạng căn bản, Mã lớp: NT106.P12
 ### Danh sách thành viên:
 | Họ và tên | MSSV | Gmail |
 |--------------|-------|------|
