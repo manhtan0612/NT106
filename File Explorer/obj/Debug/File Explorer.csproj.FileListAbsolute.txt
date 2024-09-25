@@ -1,0 +1,11 @@
+C:\Users\Son\OneDrive\Documents\Assignment Week #3\File Explorer\File Explorer\bin\Debug\File Explorer.exe.config
+C:\Users\Son\OneDrive\Documents\Assignment Week #3\File Explorer\File Explorer\bin\Debug\File Explorer.exe
+C:\Users\Son\OneDrive\Documents\Assignment Week #3\File Explorer\File Explorer\bin\Debug\File Explorer.pdb
+C:\Users\Son\OneDrive\Documents\Assignment Week #3\File Explorer\File Explorer\obj\Debug\File Explorer.csproj.AssemblyReference.cache
+C:\Users\Son\OneDrive\Documents\Assignment Week #3\File Explorer\File Explorer\obj\Debug\File_Explorer.Form1.resources
+C:\Users\Son\OneDrive\Documents\Assignment Week #3\File Explorer\File Explorer\obj\Debug\File_Explorer.Properties.Resources.resources
+C:\Users\Son\OneDrive\Documents\Assignment Week #3\File Explorer\File Explorer\obj\Debug\File Explorer.csproj.GenerateResource.cache
+C:\Users\Son\OneDrive\Documents\Assignment Week #3\File Explorer\File Explorer\obj\Debug\File Explorer.csproj.CoreCompileInputs.cache
+C:\Users\Son\OneDrive\Documents\Assignment Week #3\File Explorer\File Explorer\obj\Debug\File Explorer.exe
+C:\Users\Son\OneDrive\Documents\Assignment Week #3\File Explorer\File Explorer\obj\Debug\File Explorer.pdb
+C:\Users\Son\OneDrive\Documents\Assignment Week #3\File Explorer\File Explorer\obj\Debug\File_Explorer.Form2.resources
