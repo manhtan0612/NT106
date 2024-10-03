@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Son\\OneDrive\\Documents\\tuan4\\ChatVIP\\ChatVIP\\ChatVIP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B42093-494E-4AF7-A6EF-531292B9FC51}|Server\\Server.csproj|C:\\Users\\Son\\OneDrive\\Documents\\tuan4\\ChatVIP\\ChatVIP\\ChatVIP\\server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1B42093-494E-4AF7-A6EF-531292B9FC51}|Server\\Server.csproj|solutionrelative:server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1FCEB6-910C-4B64-B4BD-E153782A4598}|Client\\Client.csproj|c:\\users\\son\\onedrive\\documents\\tuan4\\chatvip\\chatvip\\chatvip\\client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E1FCEB6-910C-4B64-B4BD-E153782A4598}|Client\\Client.csproj|solutionrelative:client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E1FCEB6-910C-4B64-B4BD-E153782A4598}|Client\\Client.csproj|C:\\Users\\Son\\OneDrive\\Documents\\tuan4\\ChatVIP\\ChatVIP\\ChatVIP\\client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E1FCEB6-910C-4B64-B4BD-E153782A4598}|Client\\Client.csproj|solutionrelative:client\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1B42093-494E-4AF7-A6EF-531292B9FC51}|Server\\Server.csproj|C:\\Users\\Son\\OneDrive\\Documents\\tuan4\\ChatVIP\\ChatVIP\\ChatVIP\\server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1B42093-494E-4AF7-A6EF-531292B9FC51}|Server\\Server.csproj|solutionrelative:server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\Son\\OneDrive\\Documents\\tuan4\\ChatVIP\\ChatVIP\\ChatVIP\\Server\\Server.cs",
+              "RelativeDocumentMoniker": "Server\\Server.cs",
+              "ToolTip": "C:\\Users\\Son\\OneDrive\\Documents\\tuan4\\ChatVIP\\ChatVIP\\ChatVIP\\Server\\Server.cs",
+              "RelativeToolTip": "Server\\Server.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:24:50.451Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Son\\OneDrive\\Documents\\tuan4\\ChatVIP\\ChatVIP\\ChatVIP\\Client\\Client.cs",
+              "RelativeDocumentMoniker": "Client\\Client.cs",
+              "ToolTip": "C:\\Users\\Son\\OneDrive\\Documents\\tuan4\\ChatVIP\\ChatVIP\\ChatVIP\\Client\\Client.cs",
+              "RelativeToolTip": "Client\\Client.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:25:33.8Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Son\\OneDrive\\Documents\\tuan4\\ChatVIP\\ChatVIP\\ChatVIP\\Client\\Client.cs",
+              "RelativeDocumentMoniker": "Client\\Client.cs",
+              "ToolTip": "C:\\Users\\Son\\OneDrive\\Documents\\tuan4\\ChatVIP\\ChatVIP\\ChatVIP\\Client\\Client.cs [Design]*",
+              "RelativeToolTip": "Client\\Client.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:19:30.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Server.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Son\\OneDrive\\Documents\\tuan4\\ChatVIP\\ChatVIP\\ChatVIP\\Server\\Server.cs",
+              "RelativeDocumentMoniker": "Server\\Server.cs",
+              "ToolTip": "C:\\Users\\Son\\OneDrive\\Documents\\tuan4\\ChatVIP\\ChatVIP\\ChatVIP\\Server\\Server.cs [Design]",
+              "RelativeToolTip": "Server\\Server.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:18:42.028Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
