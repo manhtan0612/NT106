@@ -1,0 +1,10 @@
+D:\Chat\Chat1\Client\bin\Debug\Client.exe.config
+D:\Chat\Chat1\Client\bin\Debug\Client.exe
+D:\Chat\Chat1\Client\bin\Debug\Client.pdb
+D:\Chat\Chat1\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\Chat\Chat1\Client\obj\Debug\Client.Client.resources
+D:\Chat\Chat1\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Chat\Chat1\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Chat\Chat1\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Chat\Chat1\Client\obj\Debug\Client.exe
+D:\Chat\Chat1\Client\obj\Debug\Client.pdb
